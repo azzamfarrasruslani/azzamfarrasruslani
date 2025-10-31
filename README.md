@@ -1,8 +1,9 @@
-<h1 align="center">👋 Hi, I'm Azzam Farras Ruslani</h1>
+<h1 align="center">Hi, I'm Azzam Farras Ruslani</h1>
 
-<h3 align="center">🚀 Software Developer | Passionate about Clean & Modern Code</h3>
+<h3 align="center">Software Developer | Focused on Clean and Modern Web Development</h3>
 
 <p align="center">
+  <a href="https://azzamfarrasruslani.web.id/"><img src="https://img.shields.io/badge/Website-4CAF50?style=flat-square&logo=google-chrome&logoColor=white" /></a>
   <a href="https://github.com/azzamfarrasruslani"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/azzam-farras-ruslani/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:azzamfarrasrusl@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
@@ -10,19 +11,19 @@
 
 ---
 
-## 🌱 About Me
+## About Me
 
 I’m a software developer who enjoys building **clean and user-friendly web applications**.  
-My focus is on developing efficient and maintainable systems using **React, Next.js, Laravel, and PHP**.
+My focus is on developing efficient, maintainable systems using **React, Next.js, Laravel, and PHP**.
 
-- 💡 Always learning and exploring new technologies  
-- 🔧 Skilled in: React, Next.js, Laravel, PHP, Node.js, Tailwind CSS  
-- 🧩 Interested in full-stack development and modern web architecture  
-- 🎯 Passionate about creating solutions that are practical and scalable
+- Always learning and exploring new technologies  
+- Skilled in: React, Next.js, Laravel, PHP, Node.js, Tailwind CSS  
+- Interested in full-stack development and modern web architecture  
+- Passionate about creating practical and scalable solutions  
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" />
@@ -34,14 +35,12 @@ My focus is on developing efficient and maintainable systems using **React, Next
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-
 ---
 
----
-
-## 📫 Connect with Me
+## Connect with Me
 
 <p align="center">
+  <a href="https://azzamfarrasruslani.web.id/"><img src="https://img.shields.io/badge/Website-4CAF50?style=flat-square&logo=google-chrome&logoColor=white" /></a>
   <a href="https://github.com/azzamfarrasruslani"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/azzam-farras-ruslani/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:azzamfarrasrusl@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
@@ -49,4 +48,4 @@ My focus is on developing efficient and maintainable systems using **React, Next
 
 ---
 
-<p align="center">💚 Crafted with care by <strong>Azzam Farras Ruslani</strong></p>
+<p align="center">Crafted with care by <strong>Azzam Farras Ruslani</strong></p>
