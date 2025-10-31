@@ -1,6 +1,5 @@
-<h1 align="center">Hi, I'm Azzam Farras Ruslani</h1>
-
-<h3 align="center">Software Developer | Focused on Clean and Modern Web Development</h3>
+<h1 align="center">Azzam Farras Ruslani</h1>
+<h3 align="center">Software Developer | Building Efficient and Modern Web Applications</h3>
 
 <p align="center">
   <a href="https://azzamfarrasruslani.web.id/"><img src="https://img.shields.io/badge/Website-4CAF50?style=flat-square&logo=google-chrome&logoColor=white" /></a>
@@ -13,13 +12,15 @@
 
 ## About Me
 
-I’m a software developer who enjoys building **clean and user-friendly web applications**.  
-My focus is on developing efficient, maintainable systems using **React, Next.js, Laravel, and PHP**.
+I'm a software developer who focuses on building **clean, efficient, and user-oriented web applications**.  
+Currently exploring how **frontend precision** and **backend logic** can be aligned for seamless digital experiences.
 
-- Always learning and exploring new technologies  
-- Skilled in: React, Next.js, Laravel, PHP, Node.js, Tailwind CSS  
-- Interested in full-stack development and modern web architecture  
-- Passionate about creating practical and scalable solutions  
+**What I focus on:**
+- Developing modern full-stack web applications  
+- Writing maintainable, scalable, and reusable code  
+- Learning continuously to stay aligned with current technology trends  
+
+**Main Stack:** React, Next.js, Laravel, PHP, Node.js, Tailwind CSS
 
 ---
 
@@ -37,6 +38,14 @@ My focus is on developing efficient, maintainable systems using **React, Next.js
 
 ---
 
+## Current Focus
+
+- Developing internal and public web systems using **Next.js + Supabase**  
+- Exploring **software architecture** patterns for scalable applications  
+- Enhancing UI/UX with clean component-based design using Tailwind CSS  
+
+---
+
 ## Connect with Me
 
 <p align="center">
@@ -48,4 +57,4 @@ My focus is on developing efficient, maintainable systems using **React, Next.js
 
 ---
 
-<p align="center">Crafted with care by <strong>Azzam Farras Ruslani</strong></p>
+<p align="center"><sub>Designed and maintained by <strong>Azzam Farras Ruslani</strong></sub></p>
