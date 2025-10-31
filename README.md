@@ -1,49 +1,45 @@
-<h1 align="center">
-  Hi 👋, I'm Azzam Farras Ruslani
-</h1>
+<h1 align="center">👋 Hi, I'm Azzam Farras Ruslani</h1>
 
-<h3 align="center">
-  🚀 Passionate about Software Development & Continuous Learning
-</h3>
+<h3 align="center">🚀 Software Developer | Passionate about Clean & Modern Code</h3>
 
 <p align="center">
-  <a href="https://github.com/azzamfarras"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=#cceb6c" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/azzamfarras/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=#cceb6c" alt="LinkedIn"></a>
-  <a href="mailto:azzam@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=#cceb6c" alt="Email"></a>
+  <a href="https://github.com/azzamfarras"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/azzamfarras/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:azzam@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 🌱 About Me
 
-I'm a software developer with a passion for creating **clean, modern, and user-friendly applications**.  
-I love experimenting with **React, Next.js, Flutter, and modern web technologies**.  
+I’m a software developer who enjoys building **clean, user-centered applications**.  
+My focus is on crafting seamless experiences using **React, Next.js, and Flutter**.
 
-- 💡 Always curious and learning new technologies
-- 🔧 Skilled in: **React, Next.js, Flutter, Node.js, Tailwind CSS**
-- 🌍 Exploring **open-source projects** and contributing to the community
-- 🎯 Interested in building impactful projects that make life easier
+- 💡 Constantly exploring new technologies  
+- 🔧 Skilled in: React, Next.js, Flutter, Node.js, Tailwind CSS  
+- 🌍 Contributor to open-source and collaborative projects  
+- 🎯 Passionate about impactful and scalable software  
 
 ---
 
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=#cceb6c" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=#cceb6c" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=#cceb6c" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=#cceb6c" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=#cceb6c" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=#cceb6c" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 ---
 
-## 🌟 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azzamfarras&show_icons=true&theme=radical&hide_border=true&icon_color=#cceb6c&text_color=#cceb6c" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azzamfarras&layout=compact&theme=radical&hide_border=true&text_color=#cceb6c" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=azzamfarras&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azzamfarras&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -51,13 +47,11 @@ I love experimenting with **React, Next.js, Flutter, and modern web technologies
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/azzamfarras"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=#cceb6c" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/azzamfarras/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=#cceb6c" alt="LinkedIn"></a>
-  <a href="mailto:azzam@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=#cceb6c" alt="Email"></a>
+  <a href="https://github.com/azzamfarras"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/azzamfarras/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:azzam@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-<p align="center">
-  Made with 💚 by Azzam Farras Ruslani
-</p>
+<p align="center">💚 Crafted with care by <strong>Azzam Farras Ruslani</strong></p>
