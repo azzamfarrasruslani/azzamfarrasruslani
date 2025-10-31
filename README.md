@@ -3,22 +3,22 @@
 <h3 align="center">🚀 Software Developer | Passionate about Clean & Modern Code</h3>
 
 <p align="center">
-  <a href="https://github.com/azzamfarras"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/azzamfarras/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:azzam@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/azzamfarrasruslani"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/azzam-farras-ruslani/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:azzamfarrasrusl@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 🌱 About Me
 
-I’m a software developer who enjoys building **clean, user-centered applications**.  
-My focus is on crafting seamless experiences using **React, Next.js, and Flutter**.
+I’m a software developer who enjoys building **clean and user-friendly web applications**.  
+My focus is on developing efficient and maintainable systems using **React, Next.js, Laravel, and PHP**.
 
-- 💡 Constantly exploring new technologies  
-- 🔧 Skilled in: React, Next.js, Flutter, Node.js, Tailwind CSS  
-- 🌍 Contributor to open-source and collaborative projects  
-- 🎯 Passionate about impactful and scalable software  
+- 💡 Always learning and exploring new technologies  
+- 🔧 Skilled in: React, Next.js, Laravel, PHP, Node.js, Tailwind CSS  
+- 🧩 Interested in full-stack development and modern web architecture  
+- 🎯 Passionate about creating solutions that are practical and scalable
 
 ---
 
@@ -49,9 +49,9 @@ My focus is on crafting seamless experiences using **React, Next.js, and Flutter
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/azzamfarras"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/azzamfarras/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:azzam@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/azzamfarrasruslani"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/azzam-farras-ruslani/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:azzamfarrasrusl@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
